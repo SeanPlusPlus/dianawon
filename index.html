@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html ng-app="dianawon">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="diana won graphic designer">
+  <meta name="author" content="dianawon">
+
+  <title>Diana Won</title>
+
+  <!-- Bootstrap Core CSS -->
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css">
+
+  <!-- Font -->
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Josefin+Sans:400,700">
+
+  <!-- Custom CSS -->
+  <link href="css/main.css" rel="stylesheet">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+</head>
+
+<body ng-cloak>
+
+  <!-- Page Content -->
+  <div class="container" id="home" ng-controller="MainCtrl">
+
+    <!-- Page Header -->
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="page-header">Diana Won
+          <small>// dianaswon@gmail.com</small>
+        </h1>
+      </div>
+    </div>
+    <!-- /.row -->
+
+    <!-- Projects Row -->
+    <div class="row">
+      <div class="col-md-4 portfolio-item" ng-repeat="item in items">
+        <a href="#">
+          <img class="img-responsive" ng-src="/images/home/{{ item.imgurl }}" alt="">
+        </a>
+        <h3>
+          <a href="#">{{ item.name }}</a>
+        </h3>
+      </div>
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright &copy; Diana Won</p>
+        </div>
+      </div>
+      <!-- /.row -->
+    </footer>
+
+  </div>
+  <!-- /.container -->
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.10/angular.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/services.js"></script>
+
+</body>
+
+</html>

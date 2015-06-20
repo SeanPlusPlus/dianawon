@@ -1,0 +1,26 @@
+[
+  {
+    "name":   "Consciousness Hacking",
+    "imgurl": "consciousness.jpg"
+  },
+  {
+    "name":   "Open DNS Running",
+    "imgurl": "opendns_run.jpg"
+  },
+  {
+    "name":   "Open DNS Sydney",
+    "imgurl": "opendns_sydney.jpg"
+  },
+  {
+    "name":   "Love Joy's Team Room",
+    "imgurl": "lovejoys.jpg"
+  },
+  {
+    "name":   "Clairstart",
+    "imgurl": "clairstar.jpg"
+  },
+  {
+    "name":   "Etc.",
+    "imgurl": "etc.jpg"
+  }
+]
