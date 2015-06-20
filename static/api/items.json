@@ -1,26 +1,26 @@
 [
   {
-    "name":   "Consciousness Hacking",
-    "imgurl": "consciousness.jpg"
+    "name": "Consciousness Hacking",
+    "url": "consciousness"
   },
   {
-    "name":   "Open DNS Run",
-    "imgurl": "opendns_run.jpg"
+    "name": "Open DNS Run",
+    "url": "opendns_run"
   },
   {
-    "name":   "Open DNS Sydney",
-    "imgurl": "opendns_sydney.jpg"
+    "name": "Open DNS Sydney",
+    "url": "opendns_sydney"
   },
   {
-    "name":   "Love Joy's Tea Room",
-    "imgurl": "lovejoys.jpg"
+    "name": "Love Joy's Tea Room",
+    "url": "lovejoys"
   },
   {
-    "name":   "Clairstar",
-    "imgurl": "clairstar.jpg"
+    "name": "Clairstar",
+    "url": "clairstar"
   },
   {
-    "name":   "Etc.",
-    "imgurl": "etc.jpg"
+    "name": "Etc.",
+    "url": "etc"
   }
 ]
