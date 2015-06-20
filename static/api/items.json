@@ -8,8 +8,8 @@
     "url": "opendns_run"
   },
   {
-    "name": "Open DNS Sydney",
-    "url": "opendns_sydney"
+    "name": "Tilda",
+    "url": "tilda"
   },
   {
     "name": "Love Joy's Tea Room",
@@ -22,5 +22,25 @@
   {
     "name": "Etc.",
     "url": "etc"
+  },
+  {
+    "name": "Open DNS Sydney",
+    "url": "opendns_sydney"
+  },
+  {
+    "name": "Project Survive",
+    "url": "survive"
+  },
+  {
+    "name": "Femispheres",
+    "url": "femispheres"
+  },
+  {
+    "name": "Summer 2012",
+    "url": "summer2012"
+  },
+  {
+    "name": "Messiah",
+    "url": "messiah"
   }
 ]
