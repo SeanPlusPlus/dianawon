@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css">
 
   <!-- Font -->
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Josefin+Slab:400,700">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Josefin+Sans:400,700">
 
   <!-- Custom CSS -->
@@ -38,7 +39,13 @@
     <div class="row">
       <div class="col-lg-12">
         <h1 class="page-header">Diana Won
-          <small>// dianaswon@gmail.com</small>
+          <div class="pull-right">
+            <a href="#/contact">
+              <strong class="contact">
+                contact
+              </strong>
+            </a>
+          </div>
         </h1>
       </div>
     </div>
@@ -50,7 +57,7 @@
         <a href="#">
           <img class="img-responsive" ng-src="/images/home/{{ item.imgurl }}" alt="">
         </a>
-        <h3>
+        <h3 class="item">
           <a href="#">{{ item.name }}</a>
         </h3>
       </div>
