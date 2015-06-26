@@ -3,6 +3,14 @@
     <img class="img-responsive" ng-src="/images/portfolio/{{ item.url }}.jpg" alt="">
   </div>
   <div class="col-md-4">
-    <h3>{{ item.name }}</h3>
+    <h3 class="page-header">{{ item.name }}</h3>
+    <div ng-show="item.gallery">
+      <a class="btn btn-primary" target="_blank" ng-href="{{ item.gallery }}">
+        <strong>
+          View Gallery
+          <i class="fa fa-external-link"></i>
+        </strong>
+      </a>
+    </div>
   </div>
 </div>

@@ -3,10 +3,6 @@ body {
   font-family: 'Josefin Sans', sans-serif;
 }
 
-#logo {
-  max-height: 50px;
-}
-
 h1.page-header {
   font-family: 'Josefin Slab', serif;
 }
@@ -58,4 +54,8 @@ a {
 
 a:hover {
   color: #111;
+}
+
+.btn-primary {
+  padding-top: 10px;
 }
