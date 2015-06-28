@@ -1,6 +1,7 @@
 [
   {
     "name": "Papyrus",
+    "description": "Various Papyrus products I have worked on as a Graphic Designer / Product Design Specialist",
     "url": "papyrus",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/27434483/max_1200/52ca699bb89e3818bb98bf7f57f3d0a7.jpg",
@@ -23,6 +24,7 @@
   },
   {
     "name": "Consciousness Hacking",
+    "description": "Print work for Consciousness Hacking",
     "url": "consciousness",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/27218715/max_1200/77f6b17beff0a2eb240cf9ae714defe7.jpg",
@@ -34,6 +36,7 @@
   },
   {
     "name": "Open DNS Run",
+    "description": "Design for OpenDNS running jerseys",
     "url": "opendns_run",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/27220133/max_1200/edb4c5bc5c710985638e505769abe335.jpg",
@@ -43,6 +46,7 @@
   },
   {
     "name": "Tilda",
+    "description": "A portrait of my favorite actress, Tilda Swinton",
     "url": "tilda",
     "gallery": [
 	""
@@ -50,6 +54,7 @@
   },
   {
     "name": "Love Joy's Tea Room",
+    "description": "A conceptual rebranding for Lovejoy's, an English style tea room in San Francisco. My goal was to give Lovejoy's a sophisticated touch, while still keeping the spirit of its mismatched dishware and cozy atmosphere. Along with the logo, I redesigned their website, menu and loose leaf tea labels.",
     "url": "lovejoys",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/9232847/max_1200/3177921db625b382b6a853d627399d5e.jpg",
@@ -60,6 +65,7 @@
   },
   {
     "name": "Clairstar",
+    "description": "An annual report for fictional biotech company ClairStar. My concept for this project was a modern, technological look at nature. All photos were taken from a royalty free site, then manipulated by myself. The final result was an 8x8in, 14 page saddle stitch booklet.",
     "url": "clairstar",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/9026019/max_1200/2f583fd16077138a2e8ddc96beea241b.jpg",
@@ -70,6 +76,7 @@
   },
   {
     "name": "Etc.",
+    "description": "A design submitted for the back cover of CCSF's Etc. Magazine to raise awareness of the course (Journalism 29) that produces the magazine. I based the design on Alexander Rodchenko's famous work, relating the work of Journalism 29 to the overall message of Russian Constructivism, of creating art for a greater social purpose.",
     "url": "etc",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/8748469/max_1200/163ef951b7380a085725de504725b1c1.jpg"
@@ -77,6 +84,7 @@
   },
   {
     "name": "Open DNS Sydney",
+    "description": "Commemorative t-shirts for OpenDNS's expansion into Australia",
     "url": "opendns_sydney",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/27219931/max_1200/f9ea517393add0da077e576734b04007.jpg",
@@ -85,6 +93,7 @@
   },
   {
     "name": "Project Survive",
+    "description": "A flyer for CCSF peer education program, Project Survive",
     "url": "survive",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/8748119/max_1200/a5a00c994a19585cc7fe09699de6b67f.jpg"
@@ -92,6 +101,7 @@
   },
   {
     "name": "Femispheres",
+    "description": "A poster design for CCSF's Women's Studies Department. This poster was selected to raise awareness for Women's History Month 2013. The bottom two images were the front and back of the b&w flyer/calendar of events, also created for the event.",
     "url": "femispheres",
     "gallery": [
 	"https://m2.behance.net/rendition/pm/8748093/max_1200/33edbbcd0849d7324278f1233831a3bf.jpg",
@@ -100,6 +110,7 @@
   },
   {
     "name": "Summer 2012",
+    "description": "My first attempt at digital illustration, taken from a memory of my summer spent in the outer banks of North Carolina. The streets had flooded due to rainstorms and everywhere we walked tadpoles scattered.",
     "url": "summer2012",
     "gallery": [
 	""
@@ -107,6 +118,7 @@
   },
   {
     "name": "Messiah",
+    "description": "",
     "url": "messiah",
     "gallery": [
 	""
