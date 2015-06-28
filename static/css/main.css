@@ -71,6 +71,10 @@ a:hover {
   padding-bottom: 15px;
 }
 
+.gallery-image > a:hover {
+  cursor:zoom-in;
+}
+
 @media (max-width: 768px) {
   #logo {
     max-height: 50px;
