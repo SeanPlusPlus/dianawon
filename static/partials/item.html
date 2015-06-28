@@ -1,16 +1,20 @@
 <div class="row">
   <div class="col-md-8">
-    <img class="img-responsive" ng-src="/images/portfolio/{{ item.url }}.jpg" alt="">
+    <div class="gallery-image">
+      <a ng-href="/images/portfolio/{{ item.url }}.jpg">
+        <img class="img-responsive" ng-src="/images/portfolio/{{ item.url }}.jpg" alt="">
+      </a>
+    </div>
+    <div class="gallery-image" ng-repeat="i in item.images">
+      <a ng-href="{{ i }}">
+        <img class="img-responsive" ng-src="{{ i }}" alt="">
+      </a>
+    </div>
   </div>
   <div class="col-md-4">
     <h3 class="page-header">{{ item.name }}</h3>
-    <div ng-show="item.gallery">
-      <a class="btn btn-primary" target="_blank" ng-href="{{ item.gallery }}">
-        <strong>
-          View Gallery
-          <i class="fa fa-external-link"></i>
-        </strong>
-      </a>
-    </div>
+    <p>
+      Various Papyrus products I have worked on as a Graphic Designer / Product Design Specialist
+    </p>
   </div>
 </div>
